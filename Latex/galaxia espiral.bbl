@@ -1,0 +1,168 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{corrimiento}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a58d1b93778bf28b5a050a01518b4d40}{%
+           family={et.al},
+           familyi={e\bibinitperiod},
+           given={David\bibnamedelimb R.\bibnamedelimi Law},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a58d1b93778bf28b5a050a01518b4d40}
+      \strng{fullhash}{a58d1b93778bf28b5a050a01518b4d40}
+      \strng{bibnamehash}{a58d1b93778bf28b5a050a01518b4d40}
+      \strng{authorbibnamehash}{a58d1b93778bf28b5a050a01518b4d40}
+      \strng{authornamehash}{a58d1b93778bf28b5a050a01518b4d40}
+      \strng{authorfullhash}{a58d1b93778bf28b5a050a01518b4d40}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{{High velocity dispersion in a rare grand-design spiral galaxy at redshift z = 2.18}}
+      \field{volume}{487}
+      \field{year}{2012}
+      \field{pages}{338\bibrangedash 340}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/11256
+      \endverb
+    \endentry
+    \entry{github}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ac9cea38ae590933312bd40bd464c825}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Luis\bibnamedelima Lucas},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac9cea38ae590933312bd40bd464c825}
+      \strng{fullhash}{ac9cea38ae590933312bd40bd464c825}
+      \strng{bibnamehash}{ac9cea38ae590933312bd40bd464c825}
+      \strng{authorbibnamehash}{ac9cea38ae590933312bd40bd464c825}
+      \strng{authornamehash}{ac9cea38ae590933312bd40bd464c825}
+      \strng{authorfullhash}{ac9cea38ae590933312bd40bd464c825}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub - Spiral Structure}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/luisgotsky
+      \endverb
+      \verb{url}
+      \verb https://github.com/luisgotsky
+      \endverb
+    \endentry
+    \entry{LinShu}{article}{}
+      \name{author}{3}{}{%
+        {{hash=31a47ac3335a7a1518b9ccc53d61cb56}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={C.C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=548eaf1397ad6485b7f79282d8a68565}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8fbd6390055b7942475db1d4ae6c57e2}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Frank\bibnamedelima H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \strng{fullhash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \strng{bibnamehash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \strng{authorbibnamehash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \strng{authornamehash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \strng{authorfullhash}{9b3a48cd0da9a69b3a989d13396c0501}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Physics Journal}
+      \field{month}{3}
+      \field{title}{{On the Spiral Structure of Disk Galaxies. III. Comparison with Observations}}
+      \field{volume}{155}
+      \field{year}{1969}
+      \field{pages}{721}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/149907
+      \endverb
+    \endentry
+    \entry{cosmo}{online}{}
+      \name{author}{1}{}{%
+        {{hash=75b7dd3ae53431fb81ae8ab14649b89b}{%
+           family={Malin},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \strng{fullhash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \strng{bibnamehash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \strng{authorbibnamehash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \strng{authornamehash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \strng{authorfullhash}{75b7dd3ae53431fb81ae8ab14649b89b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Flocculent Spiral}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://astronomy.swin.edu.au/cosmos/F/Flocculent+Spiral
+      \endverb
+      \verb{url}
+      \verb https://astronomy.swin.edu.au/cosmos/F/Flocculent+Spiral
+      \endverb
+    \endentry
+    \entry{spiral}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Spiral Structure}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://burro.cwru.edu/Academics/Astr222/Galaxies/Spiral/spiral.html
+      \endverb
+      \verb{url}
+      \verb http://burro.cwru.edu/Academics/Astr222/Galaxies/Spiral/spiral.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
